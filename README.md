@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://images.unsplash.com/photo-1510915228340-29c85a43dcfe?q=80&w=1170&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D" width="50%" height="50%" alt="AI Tech Dev" />
+  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExNWd4MWJjc21ybWN1b2Z6cTU0dWhqYzd3azBneXlnaWZiejhwN3FuYyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/EZr27ZbJwmjE9PGyLN/giphy.gif" width="50%" height="50%" alt="AI Tech Dev" />
 </p>
 
 <h1 align="center">
